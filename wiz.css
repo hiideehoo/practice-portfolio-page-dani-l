@@ -1,0 +1,14 @@
+body {
+    background-color:blueviolet;
+    font-family:cursive;
+    text-align: center;
+}
+ table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+ }
+ 
+ section {
+    text-align: left;
+ }
